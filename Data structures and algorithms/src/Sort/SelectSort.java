@@ -6,5 +6,9 @@ public class SelectSort {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static void selectSort(){
+		
+	}
 
 }
