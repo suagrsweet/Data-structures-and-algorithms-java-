@@ -4,11 +4,12 @@ public class SelectSort {
 
 	public static void main(String[] args) {
 	    int[] arr = null;
-        selectSort();
+        selectSort(arr);
+
 
 	}
 	
-	public static void selectSort(){
+	public static void selectSort(int[] arr){
 		
 	}
 
