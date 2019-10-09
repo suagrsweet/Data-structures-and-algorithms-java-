@@ -8,12 +8,15 @@ package Sort;
 public class SelectSort {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+	    int[] arr = null;
+        selectSort(arr);
+
+
 	}
 	
-	public static void selectSort(){
+	public static void selectSort(int[] arr){
 		
 	}
 
 }
+
