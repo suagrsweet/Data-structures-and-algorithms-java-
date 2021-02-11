@@ -26,7 +26,6 @@ public class Test {
             inc.start();
             dec.start();
         }
-        ReentrantLock reentrantLock = new ReentrantLock(true);
     }
 }
 
